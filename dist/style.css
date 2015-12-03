@@ -14,3 +14,7 @@ table tr td {
     border: 3px solid black;
     cursor: pointer;
 }
+
+footer {
+    font-size: .5em;
+}
